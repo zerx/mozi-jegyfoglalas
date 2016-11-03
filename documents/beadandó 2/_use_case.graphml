@@ -400,7 +400,7 @@ megtekinése<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="74.0" width="185.0" x="738.7038596057332" y="106.05574374952141"/>
-          <y:Fill color="#CCCCCC" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.00390625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="177.447265625" x="3.7763671875" y="10.498046875">A megadott adatok 
 érvénytelenek<y:LabelModel>
@@ -419,7 +419,7 @@ megtekinése<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="74.0" width="185.0" x="723.8074660240826" y="860.3037137110091"/>
-          <y:Fill color="#CCCCCC" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.00390625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="157.41796875" x="13.791015625" y="10.498046875">Nincs bejelentett 
 vetítés<y:LabelModel>
@@ -456,7 +456,7 @@ vetítés<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="74.0" width="185.0" x="581.9356062198524" y="-50.5362449204963"/>
-          <y:Fill color="#CCCCCC" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.00390625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="163.00390625" x="10.998046875" y="10.498046875">A belépési adatok
 helytelenek<y:LabelModel>
@@ -475,7 +475,7 @@ helytelenek<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="74.0" width="185.0" x="88.88657759590296" y="999.8026333636807"/>
-          <y:Fill color="#CCCCCC" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.00390625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="162.96484375" x="11.017578125" y="10.498046875000114">A megadott terem
 foglalt<y:LabelModel>
@@ -494,9 +494,9 @@ foglalt<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="74.0" width="185.0" x="559.9505568727748" y="468.20630392634604"/>
-          <y:Fill color="#CCCCCC" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.501953125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="169.615234375" x="7.6923828125" y="22.7490234375">Nincs megerősítés<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.501953125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="169.615234375" x="7.6923828125" y="22.749023437499943">Nincs megerősítés<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -531,7 +531,7 @@ megtekintése<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="74.0" width="185.0" x="581.9356062198524" y="-154.5362449204963"/>
-          <y:Fill color="#CCCCCC" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.501953125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="175.19140625" x="4.904296875" y="22.7490234375">Nincs rögzített hiba<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -549,7 +549,7 @@ megtekintése<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="74.0" width="185.0" x="1122.913028478509" y="999.8026333636808"/>
-          <y:Fill color="#CCCCCC" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.00390625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="145.201171875" x="19.8994140625" y="10.498046875">Nincs több 
 szabad férőhely<y:LabelModel>
@@ -568,7 +568,7 @@ szabad férőhely<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="74.0" width="185.0" x="834.4115836711412" y="999.8026333636808"/>
-          <y:Fill color="#CCCCCC" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.00390625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="145.201171875" x="19.8994140625" y="10.498046875">Nincs elég 
 szabad férőhely<y:LabelModel>
@@ -587,7 +587,7 @@ szabad férőhely<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="74.0" width="185.0" x="1122.913028478509" y="618.7851250322201"/>
-          <y:Fill color="#CCCCCC" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.501953125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="165.19140625" x="9.904296875" y="22.7490234375">Nincs jegyfoglalás<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -605,7 +605,7 @@ szabad férőhely<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="74.0" width="185.0" x="901.0148198797833" y="468.2063039263461"/>
-          <y:Fill color="#CCCCCC" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.00390625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="119.60546875" x="32.697265625" y="10.498046875">A foglalás 
 ki van fizetve<y:LabelModel>
@@ -624,7 +624,7 @@ ki van fizetve<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="74.0" width="185.0" x="1254.8592368574316" y="188.44347583040002"/>
-          <y:Fill color="#CCCCCC" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.501953125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="117.369140625" x="33.8154296875" y="22.7490234375">Nincs fizetés<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -874,7 +874,7 @@ módosítása<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="74.0" width="185.0" x="-211.65266314931387" y="440.0751394333412"/>
-          <y:Fill color="#CCCCCC" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.00390625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="150.73828125" x="17.130859375" y="10.498046875">A férőhelyek új 
 száma nem elég<y:LabelModel>
@@ -893,7 +893,7 @@ száma nem elég<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="74.0" width="185.0" x="501.00699543584733" y="843.5530000187446"/>
-          <y:Fill color="#CCCCCC" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="77.505859375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="192.984375" x="-3.9921875" y="-1.7529296875">Az új terem 
 férőhelyeinek száma 
@@ -913,7 +913,7 @@ nem elég<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="74.0" width="185.0" x="559.9505568727748" y="276.88515146320105"/>
-          <y:Fill color="#CCCCCC" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.00390625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="110.708984375" x="37.1455078125" y="10.498046875">Az új jelszó 
 érvénytelen<y:LabelModel>
@@ -932,7 +932,7 @@ nem elég<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="74.0" width="185.0" x="500.07989873668976" y="79.06094474306099"/>
-          <y:Fill color="#CCCCCC" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.00390625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="183.013671875" x="0.9931640625" y="10.498046875">Az ediggi jelszó 
 megadása helytelen<y:LabelModel>
@@ -951,7 +951,7 @@ megadása helytelen<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="74.0" width="185.0" x="595.7675968182702" y="183.060944743061"/>
-          <y:Fill color="#CCCCCC" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.00390625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="185.171875" x="-0.0859375" y="10.498046875">Az új jelszó ismételt 
 megadása helytelen<y:LabelModel>
@@ -970,7 +970,7 @@ megadása helytelen<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="74.0" width="185.0" x="423.5781312516234" y="358.80836125027326"/>
-          <y:Fill color="#CCCCCC" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.00390625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="172.955078125" x="6.0224609375" y="10.498046875">A megadott e-mail-
 cím érvénytelen<y:LabelModel>
@@ -989,7 +989,7 @@ cím érvénytelen<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="74.0" width="185.0" x="238.5781312516234" y="267.2156891470246"/>
-          <y:Fill color="#CCCCCC" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.00390625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="175.181640625" x="4.9091796875" y="10.498046875">A megadott lakcím 
 érvénytelen<y:LabelModel>
@@ -1008,7 +1008,7 @@ cím érvénytelen<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="74.0" width="185.0" x="134.61866727941128" y="341.2156891470246"/>
-          <y:Fill color="#CCCCCC" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.00390625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="149.64453125" x="17.677734375" y="10.498046875">A megadott név 
 érvénytelen<y:LabelModel>
