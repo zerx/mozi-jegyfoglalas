@@ -18,7 +18,7 @@
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="486.875" y="906.4189717197451"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="23.0" y="23.0">
             <y:LabelModel>
@@ -37,7 +37,7 @@
       <data key="d6">
         <y:UMLNoteNode>
           <y:Geometry height="85.0" width="230.0" x="725.1856587515924" y="102.73714649681463"/>
-          <y:Fill color="#C0C0C0" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.00390625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="191.880859375" x="19.0595703125" y="15.998046875">Vetítés módosítása 1
 -DT<y:LabelModel>
@@ -215,7 +215,7 @@ kiválasztása<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="-158.15764331210153" y="1148.4795801273885"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="23.0" y="23.0">
             <y:LabelModel>
@@ -251,7 +251,7 @@ a Központi adatbázisban<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="266.76321443736754" y="1148.4795801273885"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.501953125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="29.56640625" x="10.216796875" y="10.7490234375">D1<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -268,7 +268,7 @@ a Központi adatbázisban<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="486.875" y="1148.4795801273885"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="23.0" y="23.0">
             <y:LabelModel>
@@ -304,7 +304,7 @@ a Központi adatbázisban<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="913.1671698513799" y="1148.4795801273885"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.501953125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="20.6796875" x="14.66015625" y="10.7490234375">I1<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -321,7 +321,7 @@ a Központi adatbázisban<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="1139.9914410828019" y="1148.4795801273885"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="23.0" y="23.0">
             <y:LabelModel>
@@ -357,7 +357,7 @@ a Központi adatbázisban<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="1566.283610934182" y="1148.4795801273885"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.501953125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="27.33984375" x="11.330078125" y="10.7490234375">T1<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -431,7 +431,7 @@ teremcseréről<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="486.875" y="1597.6007969426755"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="23.0" y="23.0">
             <y:LabelModel>
@@ -449,7 +449,7 @@ teremcseréről<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="1139.9914410828019" y="1252.0098843312103"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="23.0" y="23.0">
             <y:LabelModel>
@@ -467,7 +467,7 @@ teremcseréről<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="1511.1880764331215" y="1252.0098843312103"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.501953125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="27.33984375" x="11.330078125" y="10.7490234375">T2<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -501,7 +501,7 @@ teremcseréről<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="60.280507430996806" y="1968.7440718046726"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.501953125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="29.56640625" x="10.216796875" y="10.7490234375">D1<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -537,7 +537,7 @@ dátummódosításról<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="60.280507430996806" y="2175.8046802123167"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.501953125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="42.90625" x="3.546875" y="10.7490234375">D1X<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -554,7 +554,7 @@ dátummódosításról<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="344.5760615711245" y="1968.7440718046726"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.501953125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="20.6796875" x="14.66015625" y="10.7490234375">I1<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -590,7 +590,7 @@ időpont-módosításról<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="344.5760615711245" y="2175.8046802123167"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.501953125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="34.01953125" x="7.990234375" y="10.7490234375">I1X<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -607,7 +607,7 @@ időpont-módosításról<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="628.8716157112522" y="1968.7440718046728"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.501953125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="27.33984375" x="11.330078125" y="10.7490234375">T1<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -626,7 +626,7 @@ időpont-módosításról<y:LabelModel>
           <y:Geometry height="85.0" width="230.0" x="538.8716157112522" y="2054.774376008495"/>
           <y:Fill color="#C0C0C0" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="77.505859375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="194.087890625" x="17.9560546875" y="3.7470703124997726">Visszajelzés küldése 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="77.505859375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="194.087890625" x="17.9560546875" y="3.7470703125">Visszajelzés küldése 
 a sikertelen 
 teremcseréről<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -643,7 +643,7 @@ teremcseréről<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="628.8716157112522" y="2175.8046802123167"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.501953125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="40.6796875" x="4.66015625" y="10.7490234375">T1X<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -660,7 +660,7 @@ teremcseréről<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="913.1671698513799" y="1968.7440718046728"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.501953125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="27.33984375" x="11.330078125" y="10.7490234375">T2<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -696,7 +696,7 @@ teremcseréről<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="913.1671698513799" y="2175.8046802123167"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.501953125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="40.6796875" x="4.66015625" y="10.7490234375">T2X<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -713,7 +713,7 @@ teremcseréről<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="326.51218343949023" y="1683.6311011464975"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.501953125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="42.90625" x="3.546875" y="10.7490234375">D1X<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -730,7 +730,7 @@ teremcseréről<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="486.875" y="1855.691709554141"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="23.0" y="23.0">
             <y:LabelModel>
@@ -766,7 +766,7 @@ teremcseréről<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="486.875" y="1769.6614053503192"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="23.0" y="23.0">
             <y:LabelModel>
@@ -784,7 +784,7 @@ teremcseréről<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="326.5121834394902" y="1772.4658472992965"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.501953125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="34.01953125" x="7.990234375" y="10.7490234375">I1X<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -801,7 +801,7 @@ teremcseréről<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="647.2378165605098" y="1683.6311011464975"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.501953125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="40.6796875" x="4.66015625" y="10.7490234375">T1X<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -818,7 +818,7 @@ teremcseréről<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="647.2378165605098" y="1769.6614053503192"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.501953125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="40.6796875" x="4.66015625" y="10.7490234375">T2X<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>

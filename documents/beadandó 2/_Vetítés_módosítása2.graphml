@@ -18,7 +18,7 @@
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="486.875" y="490.82805910827983"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="23.0" y="23.0">
             <y:LabelModel>
@@ -37,7 +37,7 @@
       <data key="d6">
         <y:UMLNoteNode>
           <y:Geometry height="85.0" width="250.0" x="715.1856587515924" y="102.73714649681463"/>
-          <y:Fill color="#C0C0C0" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.00390625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="191.880859375" x="29.0595703125" y="15.998046875">Vetítés módosítása 2
 -DT<y:LabelModel>
@@ -165,7 +165,7 @@ hiányáról<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="486.875" y="871.4189717197451"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="23.0" y="23.0">
             <y:LabelModel>
@@ -185,7 +185,7 @@ hiányáról<y:LabelModel>
           <y:Geometry height="965.0059905697162" width="1013.9680530171572" x="-14.95747552246462" y="71.64092238145088"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="6.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="60" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="151.01171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="360.865234375" x="23.82778827127038" y="4.000000000000057">Vetítések 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="60" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="151.01171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="360.865234375" x="23.82778827127038" y="4.0">Vetítések 
 megtekintése<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -201,7 +201,7 @@ megtekintése<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="50.0" width="50.0" x="486.875" y="964.9492759235669"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="23.0" y="23.0">
             <y:LabelModel>
