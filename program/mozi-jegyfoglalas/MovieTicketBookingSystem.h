@@ -30,9 +30,45 @@ public:
 
 	bool checkIfSeatsEnough(Screening& screening, Room& room);
 
-	void printRooms();
+	void printRooms()
+    {
+        if(rooms.size()==0)
+        {
+            cout << "There are no rooms." << endl;
+            return;
+        }
+        else
+        {
+            cout << "[ID]\t[Name] [Number of seats]" << endl;
+            for(unsigned int i=0; i<rooms.size(); i++)
+            {
+                cout << rooms[i].getId() << "\t" << rooms[i].getName() << " " << rooms[i].getNumOfSeats() << endl;
+            };
+            cout << endl;
+        }
+    }
 
-	void printScreenings();
+	void printScreenings()
+    {
+        if(screenings.size()==0)
+        {
+            cout << "There are no scheduled screenings." << endl;
+            return;
+        }
+        else
+        {
+            cout << "[ID]\t[Date & time] [Movie title] [Room name] [Price]" << endl;
+            for(unsigned int i=0; i<screenings.size(); i++)
+            {
+                if(screenings[i].getIsCancelled()==false)
+                {
+                    cout << screenings[i].getId() << "\t";
+                    screenings[i].getTime().print();
+                    cout << " " << screenings[i].getMovieName() << " <Room: " << screenings[i].getRoom().getName() << " > " << screenings[i].getPrice() << endl;
+                }
+            }
+        }
+    }
 
 	void printStaffMembers();
 
@@ -48,7 +84,7 @@ public:
 
     int findScreening(int id)
     {
-        for(unsigned int i= 0; i<screenings.size(); i++)
+        for(unsigned int i=0; i<screenings.size(); i++)
         {
             if(screenings[i].getId() == id)
                 return i;
@@ -58,7 +94,7 @@ public:
     
     int findErrorLog(int id)
     {
-        for(unsigned int i= 0; i<errorLogs.size(); i++)
+        for(unsigned int i=0; i<errorLogs.size(); i++)
         {
             if(errorLogs[i].getId() == id)
                 return i;

@@ -33,6 +33,7 @@ public:
             return true;
         else return false;
     }
+    
     int getId() const;
     Reservation getReservation() const;
     DateTime getTime() const;

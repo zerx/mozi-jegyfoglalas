@@ -24,18 +24,3 @@ void Customer::viewPayments() {
 	// TODO - implement Customer::viewPayments
 	throw "Not yet implemented";
 }
-
-void Customer::printReservations() {
-	// TODO - implement Customer::printReservations
-	throw "Not yet implemented";
-}
-
-void Customer::printUnpaidReservations() {
-	// TODO - implement Customer::printUnpaidReservations
-	throw "Not yet implemented";
-}
-
-void Customer::printPayments() {
-	// TODO - implement Customer::printPayments
-	throw "Not yet implemented";
-}

@@ -24,12 +24,22 @@ public:
     
     void printErrors()
     {
-        for(unsigned int i= 0; i<errors.size(); i++)
+        if(errors.size()==0)
         {
-            cout << errors[i].getId() << " " << errors[i].getErrorType() << " ";
-            errors[i].getTime().print();
+            cout << "There are no recorded errors." << endl;
+            return;
+        }
+        else
+        {
+            cout << "ID Error type" << endl;
+            for(unsigned int i= 0; i<errors.size(); i++)
+            {
+                cout << errors[i].getId() << " " << errors[i].getErrorType() << " ";
+                errors[i].getTime().print();
+                cout << endl;
+            };
             cout << endl;
-        };
+        }
     }
 
 	int findError(int id)

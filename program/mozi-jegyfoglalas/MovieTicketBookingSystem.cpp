@@ -20,16 +20,6 @@ bool MovieTicketBookingSystem::checkIfSeatsEnough(Screening& screening, Room& ro
 	throw "Not yet implemented";
 }
 
-void MovieTicketBookingSystem::printRooms() {
-	// TODO - implement MovieTicketBookingSystem::printRooms
-	throw "Not yet implemented";
-}
-
-void MovieTicketBookingSystem::printScreenings() {
-	// TODO - implement MovieTicketBookingSystem::printScreenings
-	throw "Not yet implemented";
-}
-
 void MovieTicketBookingSystem::printStaffMembers() {
 	// TODO - implement MovieTicketBookingSystem::printStaffMembers
 	throw "Not yet implemented";

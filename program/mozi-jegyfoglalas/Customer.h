@@ -34,9 +34,58 @@ public:
 
 	void printReservations();
 
-	void printUnpaidReservations();
+	void printUnpaidReservations()
+    {
+        if(reservations.size()==0)
+        {
+            cout << "You don't have any unpaid reservations." << endl;
+            return;
+        }
+        else
+        {
+            int numOfUnpaid=0;
+            for(unsigned int i=0; i<reservations.size(); i++)
+            {
+                if(reservations[i].getIsPaid()==false)
+                {
+                    numOfUnpaid++;
+                }
+            };
+            if(numOfUnpaid>0)
+            {
+                cout << "[ID]\t[Date & time] [Movie title] [Room name] [Number of tickets] [Price] [Total price]" << endl;
+                for(unsigned int i=0; i<reservations.size(); i++)
+                {
+                    if(reservations[i].getIsPaid()==false)
+                    {
+                        cout << reservations[i].getId() << "\t";
+                        reservations[i].getScreening().getTime().print();
+                        cout << reservations[i].getScreening().getMovieName() << " <Room: " << reservations[i].getScreening().getRoom().getName() << "> " << reservations[i].getNumOfTickets() << " " << reservations[i].getScreening().getPrice() << " " << reservations[i].getTotalPrice() << endl;
+                    }
+                };
+            }
+        }
+    }
 
-	void printPayments();
+	void printPayments()
+    {
+        if(payments.size()==0)
+        {
+            cout << "You don't have any payments in your purchase history." << endl;
+            return;
+        }
+        else
+        {
+            cout << "[ID]\t[Time of purchase] [Movie title] [Room name] [Number of tickets] [Price] [Total price]" << endl;
+            for(unsigned int i=0; i<payments.size(); i++)
+            {
+                cout << payments[i].getId() << "\t";
+                payments[i].getTime().print();
+                cout << " " << payments[i].getReservation().getScreening().getMovieName() << " " << payments[i].getReservation().getScreening().getRoom().getName() << " ";
+                cout << payments[i].getReservation().getNumOfTickets() << " " << payments[i].getReservation().getScreening().getPrice() << " " << payments[i].getReservation().getTotalPrice() << endl;
+            };
+        }
+    }
 
 	int findReservation(int id)
     {
