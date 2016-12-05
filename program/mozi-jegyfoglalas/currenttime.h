@@ -1,15 +1,18 @@
 #ifndef CURRENTTIME
 #define CURRENTTIME
 
+#include <ctime>
 #include "DateTime.h"
 
-inline void CurrentTime(DateTime& time)
+inline void currentTime(DateTime& datetime)
 {
-    time.setYear(2016);
-    time.setMonth(12);
-    time.setDay(1);
-    time.setHour(15);
-    time.setMinute(38);
+    time_t t= time(0);
+    struct tm* now= localtime(&t);
+    datetime.setYear(now->tm_year + 1900);
+    datetime.setMonth(now->tm_mon + 1);
+    datetime.setDay(now->tm_mday);
+    datetime.setHour(now->tm_hour);
+    datetime.setMinute(now->tm_min);
 }
 
 #endif // CURRENTTIME

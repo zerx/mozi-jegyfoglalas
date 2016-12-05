@@ -37,16 +37,16 @@ public:
 	virtual void printMenu() = 0;
     
     int getId() const;
-    string getUsername() const;
-    string getPassword() const;
+    const string& getUsername() const;
+    const string& getPassword() const;
     void setPassword(const string &value);
-    EmailAddress getEmailAddress() const;
+    const EmailAddress& getEmailAddress() const;
     void setEmailAddress(const EmailAddress &value);
-    string getFirstName() const;
+    const string& getFirstName() const;
     void setFirstName(const string &value);
-    string getLastName() const;
+    const string& getLastName() const;
     void setLastName(const string &value);
-    Address getAddress() const;
+    const Address& getAddress() const;
     void setAddress(const Address &value);
 };
 

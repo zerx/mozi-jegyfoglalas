@@ -20,7 +20,7 @@ public:
         id=nextId;
         nextId++;
         this->reservation=reservation;
-        CurrentTime(time);
+        currentTime(time);
         this->isSuccessful=isSuccessful;
     }
     
@@ -35,7 +35,7 @@ public:
     }
     
     int getId() const;
-    Reservation getReservation() const;
+    const Reservation& getReservation() const;
     DateTime getTime() const;
     bool getIsSuccessful() const;
 };

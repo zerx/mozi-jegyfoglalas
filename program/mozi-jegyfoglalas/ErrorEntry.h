@@ -19,7 +19,7 @@ public:
         id=nextId;
         nextId++;
         this->errorType=errorType;
-        CurrentTime(time);
+        currentTime(time);
     }
     
     ErrorEntry(){}
@@ -33,7 +33,7 @@ public:
     }
     
     int getId() const;
-    string getErrorType() const;
+    const string& getErrorType() const;
     DateTime getTime() const;
 };
 

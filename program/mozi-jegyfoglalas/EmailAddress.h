@@ -20,10 +20,10 @@ public:
     EmailAddress(){}
     ~EmailAddress(){}
     
-    string getUsername() const;
+    const string& getUsername() const;
     void setUsername(const string &value);
     
-    string getDomain() const;
+    const string& getDomain() const;
     void setDomain(const string &value);
 };
 

@@ -9,17 +9,10 @@ using namespace std;
 class ErrorLog
 {
 private:
-    static int nextId;
-    int id;
 	vector<ErrorEntry> errors;
 
 public:
-    ErrorLog()
-    {
-        id=nextId;
-        nextId++;
-    }
-    
+    ErrorLog(){}
     ~ErrorLog(){}
     
     void printErrors()
@@ -57,8 +50,6 @@ public:
         int errorIndex=findError(id);
         return errors[errorIndex];
     }
-    
-    int getId() const;
 };
 
 #endif // ErrorLog_H

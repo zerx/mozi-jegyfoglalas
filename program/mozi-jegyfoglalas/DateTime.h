@@ -72,6 +72,25 @@ public:
         else return false;
     }
     
+    bool operator==(DateTime const& d) const
+    {
+        if(year==d.year)
+        {
+            if(month==d.month)
+            {
+                if(day==d.day)
+                {
+                    if(hour==d.hour)
+                    {
+                        if(minute==d.minute)
+                            return true;
+                    }
+                }
+            }
+        }
+        else return false;
+    }
+    
     int getYear() const;
     void setYear(int value);
     int getMonth() const;

@@ -2,7 +2,7 @@
 
 int ErrorEntry::nextId=0;
 
-string ErrorEntry::getErrorType() const
+const string& ErrorEntry::getErrorType() const
 {
     return errorType;
 }

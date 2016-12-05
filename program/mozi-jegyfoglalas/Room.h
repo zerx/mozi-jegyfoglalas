@@ -24,7 +24,16 @@ public:
     Room(){}
     ~Room(){}
     
-    string getName() const;
+    bool operator==(Room const& r) const
+    {
+        if(id==r.id)
+        {
+            return true;
+        }
+        else return false;
+    }
+    
+    const string& getName() const;
     void setName(const string &value);
     int getNumOfSeats() const;
     void setNumOfSeats(int value);

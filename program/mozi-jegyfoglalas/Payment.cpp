@@ -1,6 +1,6 @@
 #include "Payment.h"
 
-Reservation Payment::getReservation() const
+const Reservation& Payment::getReservation() const
 {
     return reservation;
 }

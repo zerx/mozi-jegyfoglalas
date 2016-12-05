@@ -26,15 +26,15 @@ public:
     Address(){}
     ~Address(){}
     
-    string getCountry() const;
+    const string& getCountry() const;
     void setCountry(const string &value);
-    string getProvince() const;
+    const string& getProvince() const;
     void setProvince(const string &value);
-    string getTown() const;
+    const string& getTown() const;
     void setTown(const string &value);
-    string getPostCode() const;
+    const string& getPostCode() const;
     void setPostCode(const string &value);
-    string getAddressLine() const;
+    const string& getAddressLine() const;
     void setAddressLine(const string &value);
 };
 

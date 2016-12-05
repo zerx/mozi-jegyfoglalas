@@ -2,7 +2,7 @@
 
 int Screening::nextId=0;
 
-string Screening::getMovieName() const
+const string& Screening::getMovieName() const
 {
     return movieName;
 }
@@ -32,7 +32,7 @@ void Screening::setTime(const DateTime &value)
     time = value;
 }
 
-Room Screening::getRoom() const
+const Room& Screening::getRoom() const
 {
     return room;
 }

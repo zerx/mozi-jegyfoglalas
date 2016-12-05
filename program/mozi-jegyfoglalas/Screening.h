@@ -46,13 +46,13 @@ public:
         else return false;
     }
     int getId() const;
-    string getMovieName() const;
+    const string& getMovieName() const;
     void setMovieName(const string &value);
     int getPrice() const;
     void setPrice(int value);
     DateTime getTime() const;
     void setTime(const DateTime &value);
-    Room getRoom() const;
+    const Room& getRoom() const;
     void setRoom(const Room &value);
     int getNumOfReservations() const;
     void setNumOfReservations(int value);

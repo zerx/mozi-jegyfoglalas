@@ -17,7 +17,7 @@ int Room::getId() const
     return id;
 }
 
-string Room::getName() const
+const string& Room::getName() const
 {
     return name;
 }
