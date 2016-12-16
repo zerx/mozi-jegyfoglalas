@@ -42,12 +42,12 @@ void Screening::setRoom(const Room &value)
     room = value;
 }
 
-int Screening::getNumOfReservations() const
+unsigned int Screening::getNumOfReservations() const
 {
     return numOfReservations;
 }
 
-void Screening::setNumOfReservations(int value)
+void Screening::setNumOfReservations(unsigned int value)
 {
     numOfReservations = value;
 }

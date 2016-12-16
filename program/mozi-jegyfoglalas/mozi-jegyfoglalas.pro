@@ -2,6 +2,7 @@ TEMPLATE = app
 CONFIG += console
 CONFIG -= app_bundle
 CONFIG -= qt
+CONFIG += c++11
 
 SOURCES += main.cpp \
     Admin.cpp \
@@ -9,7 +10,6 @@ SOURCES += main.cpp \
     DateTime.cpp \
     ErrorEntry.cpp \
     ErrorLog.cpp \
-    Guest.cpp \
     MovieTicketBookingSystem.cpp \
     Payment.cpp \
     Reservation.cpp \
@@ -31,7 +31,6 @@ HEADERS += \
     EmailAddress.h \
     ErrorEntry.h \
     ErrorLog.h \
-    Guest.h \
     MovieTicketBookingSystem.h \
     Payment.h \
     Reservation.h \
@@ -39,5 +38,7 @@ HEADERS += \
     Screening.h \
     StaffMember.h \
     User.h \
-    currenttime.h
+    currenttime.h \
+    demodb.h \
+    getline.h
 

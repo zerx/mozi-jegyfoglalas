@@ -1,5 +1,7 @@
 #include "User.h"
 
+int User::nextId=0;
+
 const string& User::getUsername() const
 {
     return username;
@@ -53,6 +55,11 @@ const Address& User::getAddress() const
 void User::setAddress(const Address &value)
 {
     address = value;
+}
+
+usertype User::getType() const
+{
+    return type;
 }
 
 int User::getId() const

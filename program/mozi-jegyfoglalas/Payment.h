@@ -2,11 +2,10 @@
 #define Payment_H
 
 #include "Reservation.h"
-#include "DateTime.h"
 #include "currenttime.h"
 
-class Payment {
-
+class Payment
+{
 private:
 	static int nextId;
 	int id;

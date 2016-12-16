@@ -1,10 +1,8 @@
 #ifndef ErrorLog_H
 #define ErrorLog_H
 
-#include <string>
 #include <vector>
 #include "ErrorEntry.h"
-using namespace std;
 
 class ErrorLog
 {
@@ -24,17 +22,22 @@ public:
         }
         else
         {
-            cout << "ID Error type" << endl;
+            cout << "[ID]\t[Error type]\t\t\t\t[Date & Time]" << endl;
             for(unsigned int i= 0; i<errors.size(); i++)
             {
-                cout << errors[i].getId() << " " << errors[i].getErrorType() << " ";
+                cout << errors[i].getId() << "\t" << errors[i].getErrorType() << " (";
                 errors[i].getTime().print();
-                cout << endl;
+                cout << ")" << endl;
             };
             cout << endl;
         }
     }
-
+    
+    void addError(const ErrorEntry& error)
+    {
+        errors.push_back(error);
+    }
+    
 	int findError(int id)
     {
         for(unsigned int i= 0; i<errors.size(); i++)

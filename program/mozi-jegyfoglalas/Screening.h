@@ -1,10 +1,8 @@
 #ifndef Screening_H
 #define Screening_H
 
-#include <string>
 #include "DateTime.h"
 #include "Room.h"
-using namespace std;
 
 class Screening
 {
@@ -15,7 +13,7 @@ private:
 	int price;
 	DateTime time;
 	Room room;
-	int numOfReservations;
+	unsigned int numOfReservations;
 	bool isCancelled;
 
 public:
@@ -34,7 +32,7 @@ public:
     Screening(){}
     ~Screening(){}
     
-	int checkNumOfFreeSeats()
+	unsigned int checkNumOfFreeSeats()
     {
         return room.getNumOfSeats()-numOfReservations;
     }
@@ -45,6 +43,7 @@ public:
             return true;
         else return false;
     }
+    
     int getId() const;
     const string& getMovieName() const;
     void setMovieName(const string &value);
@@ -54,8 +53,8 @@ public:
     void setTime(const DateTime &value);
     const Room& getRoom() const;
     void setRoom(const Room &value);
-    int getNumOfReservations() const;
-    void setNumOfReservations(int value);
+    unsigned int getNumOfReservations() const;
+    void setNumOfReservations(unsigned int value);
     bool getIsCancelled() const;
     void setIsCancelled(bool value);
 };

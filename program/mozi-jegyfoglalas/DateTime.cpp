@@ -1,6 +1,5 @@
 #include "DateTime.h"
 
-
 int DateTime::getYear() const
 {
     return year;

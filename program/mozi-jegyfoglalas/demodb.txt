@@ -1,0 +1,13 @@
+USER TYPE
+username	password
+-------------------------------
+ADMIN
+sysadmin	123456
+-------------------------------
+STAFF MEMBER
+lordprotector	britainrulez
+imduce		notadictator
+-------------------------------
+CUSTOMER
+vercetti	rememberthename
+rosenberg	cokeftw

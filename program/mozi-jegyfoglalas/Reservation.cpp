@@ -1,5 +1,7 @@
 #include "Reservation.h"
 
+int Reservation::nextId=0;
+
 Screening Reservation::getScreening() const
 {
     return screening;

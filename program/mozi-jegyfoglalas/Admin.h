@@ -7,18 +7,15 @@ class Admin : public User
 {
 public:
     Admin(const string& username, const string& password, const EmailAddress& emailAddress, const string& firstName, const string& lastName, const Address& address)
-        :User(username, password, emailAddress, firstName, lastName, address){}
+        :User(username, password, emailAddress, firstName, lastName, address)
+    {
+        type=_admin;
+    }
     
     Admin(){}
     ~Admin(){}
     
-	virtual void printMenu() = 0;
-
-	void addStaffMember();
-
-	void removeStaffMember();
-
-	void viewErrorLog();
+    virtual void abstract(){}
 };
 
 #endif // Admin_H

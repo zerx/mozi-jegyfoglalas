@@ -2,12 +2,12 @@
 
 int Room::nextId=0;
 
-int Room::getNumOfSeats() const
+unsigned int Room::getNumOfSeats() const
 {
     return numOfSeats;
 }
 
-void Room::setNumOfSeats(int value)
+void Room::setNumOfSeats(unsigned int value)
 {
     numOfSeats = value;
 }

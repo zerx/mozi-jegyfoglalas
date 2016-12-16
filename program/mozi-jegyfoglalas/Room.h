@@ -10,7 +10,7 @@ private:
 	static int nextId;
 	int id;
 	string name;
-	int numOfSeats;
+	unsigned int numOfSeats;
     
 public:
     Room(const string& name, int numOfSeats)
@@ -35,8 +35,8 @@ public:
     
     const string& getName() const;
     void setName(const string &value);
-    int getNumOfSeats() const;
-    void setNumOfSeats(int value);
+    unsigned int getNumOfSeats() const;
+    void setNumOfSeats(unsigned int value);
     int getId() const;
 };
 
